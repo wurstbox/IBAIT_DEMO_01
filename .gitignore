@@ -25,3 +25,11 @@ hs_err_pid*
 /bin/
 /.classpath
 /.project
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/.gitignore
+/.idea/compiler.xml
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+/IBAIT_DEMO_01.iml
