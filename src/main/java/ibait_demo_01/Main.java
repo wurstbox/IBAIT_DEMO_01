@@ -1,5 +1,8 @@
 package ibait_demo_01;
 
+import javax.sound.midi.Soundbank;
+import java.sql.SQLOutput;
+
 public class Main
 {
 
@@ -16,7 +19,8 @@ public class Main
 
 	private static void sayHello()
 	{
-		System.out.println("Hello World");
+		//correction: Hello World requires a comma: "Hello, World"
+		System.out.println("Hello, World");
 	}
 
 }
